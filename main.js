@@ -20,7 +20,10 @@ there.style.color = "green";
 there.style.wordSpacing = "90px";
 there.style.transform = "rotate(250deg)";
 
-const here = document.title;
-here.style.color = 'green';
+const here = document.getElementById('myHeader');
+here.style.color = 'orange';
+here.style.transform = "rotate(150deg)";
+
+
 
 
