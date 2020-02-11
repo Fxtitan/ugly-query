@@ -24,6 +24,12 @@ const here = document.getElementById('myHeader');
 here.style.color = 'orange';
 here.style.transform = "rotate(150deg)";
 
+document.body.style.backgroundColor = "brown";
+
+document.body.style.backgroundImage = "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMhMM_7zTlK34-lIRJp1MbUNv4jLxn8GdMH_OL9sWHj8jhceyc)";
+
+
+
 
 
 
